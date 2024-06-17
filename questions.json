@@ -1,0 +1,103 @@
+[
+    {
+      "question": "What does CPU stand for?",
+      "options": [
+        "Central Process Unit",
+        "Central Processing Unit ",
+        "Computer Personal Unit",
+        "Central Peripheral Unit"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Which programming language is used for creating dynamic and interactive websites?",
+      "options": [
+        "Python",
+        "C++",
+        "Java",
+        "JavaScript"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "What is the purpose of a router in a network?",
+      "options": [
+        "Store files and documents",
+        "Provide power to devices",
+        "Connect different networks and route data ",
+        "Display web pages"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Which type of malware spreads by making copies of itself and infecting other programs or files?",
+      "options": [
+        "Spyware",
+        "Trojan",
+        "Worm",
+        "Adware"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Which protocol is used for sending email over the internet?",
+      "options": [
+        "FTP",
+        "HTTP",
+        "SMTP ",
+        "POP3"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What does HTML stand for?",
+      "options": [
+        "HyperText Markup Language ",
+        "High Tech Multimedia Language",
+        "Hypertext Transfer Protocol",
+        "Hyperlink and Text Markup Language"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Which data storage technology typically offers the fastest access times?",
+      "options": [
+        "Hard Disk Drive (HDD)",
+        "Solid State Drive (SSD) ",
+        "Optical Disc Drive",
+        "Magnetic Tape Drive"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the main purpose of an operating system?",
+      "options": [
+        "Create documents and spreadsheets",
+        "Manage hardware and software resources ",
+        "Provide internet connectivity",
+        "Design graphics and animations"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Which of the following is an example of a public cloud service?",
+      "options": [
+        "Personal server at home",
+        "Company's internal network",
+        "Amazon Web Services (AWS) ",
+        "Local storage device"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What does HTTPS stand for?",
+      "options": [
+        "High-Tech Email Protocol",
+        "HyperText Transfer Protocol Secure ",
+        "Hyperlink and Text Markup Language",
+        "High-Speed Transmission Protocol"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+  
